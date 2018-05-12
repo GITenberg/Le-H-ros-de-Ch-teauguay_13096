@@ -1,0 +1,29 @@
+_repo: Le-H-ros-de-Ch-teauguay_13096
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: David, L.-O. (Laurent-Olivier)
+    alias: David, Laurent-Olivier
+    birthdate: 1840
+    deathdate: 1926
+    gutenberg_agent_id: '4829'
+    url: http://www.gutenberg.org/2009/agents/4829
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2004-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13096'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F1001'
+- !lcsh 'Chateauguay, Battle of, Québec, 1813'
+- !lcsh 'Salaberry, Charles Michel d''Irumberry de, 1778-1829'
+title: Le Héros de Châteauguay
+url: http://www.gutenberg.org/ebooks/13096
